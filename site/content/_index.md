@@ -1,13 +1,16 @@
 ---
-title: "Manon the Backpacker "
-subtitle: "A journey toward "
+title: "Manon the Adventurer "
+subtitle: "The Path of Surrender  "
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Welcome, fellow adventurer
+  text: "Let's keep on moving, start new things, seek our truth, and live an
+    adventurous life! It’s too easy nowadays to stagnate. It is too simple to be
+    brain-washed and remain in our comfortable life. Let's get out of our
+    convenience and shake the world! We all have a flame asking to be
+    stimulated, played with and, why not, challenged? I believe story telling is
+    a powerful way to bring back sparkles, creativity and the adventurer
+    sleeping within us. "
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
